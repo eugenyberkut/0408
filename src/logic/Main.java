@@ -104,6 +104,7 @@ public class Main {
         return result;
     }
 
+    // Это метод
     private int countPersonsWithZPgreaterThen(Person[] persons, double amount) {
         int result = 0;
         for (int i = 0; i < persons.length; i++) {
